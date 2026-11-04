@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SY221204/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SY221204/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/SY221204/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SY221204/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SY221204/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SY221204/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SY221204/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
